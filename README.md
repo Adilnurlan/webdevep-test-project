@@ -3,7 +3,7 @@
 
 `cd webdevep-backend && npm install`
 
-`cd webdevep && docker compose up`
+`docker compose up` on root path
 
 ## Watch 
 `localhost:8080`
